@@ -1,6 +1,6 @@
 # real_world
 
-A new Flutter application.
+A real world app.
 
 ## Getting Started
 
